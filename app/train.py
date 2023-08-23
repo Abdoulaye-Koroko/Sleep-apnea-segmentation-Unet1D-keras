@@ -1,6 +1,6 @@
 import numpy as np
 import os 
-os.environ["CUDA_VISIBLE_DEVICES"]="1"
+#os.environ["CUDA_VISIBLE_DEVICES"]="1"
 import argparse
 from sklearn.model_selection import KFold, train_test_split
 import tensorflow as tf
