@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository train a neural network to segment sleep apnea from physiological signals. Several signals are recorded during sleep at night. The goal is to detect if 
+This repository trains a neural network to segment sleep apnea from physiological signals. Several signals are recorded during sleep at night. The goal is to detect if 
 at each time of the siganls, there exists a respiratory-event (sleep apnea) or no-event (normal). Below is an example.  The first 14 graphs correspond to polysomnographic recorded signals. The last graph corresponds to the labels at each instant. 
 ![](pictures/example_signals.JPG)
 
